@@ -15,3 +15,8 @@ Este proyecto es una aplicación web que ayuda a los usuarios a gestionar sus ta
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu_usuario/mi_proyecto_increible.git
+   
+1. Navega al directorio del proyecto: cd mi_proyecto_increible
+2. Instala las dependencias necesarias: npm install
+3. Configura el entorno (añadir instrucciones específicas si es necesario, como la creación de archivos de configuración)
+4. .Inicia la aplicación: npm start
